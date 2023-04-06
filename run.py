@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-#####Bebas Recode, Kesian Gua ama Luuu MurdockXD#########
+#Bebas Recode, Kesian Gua ama Luuu( MurdockXD)
 
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3
@@ -181,7 +181,7 @@ _____ ______  ___  _____  _   _______ _   ___   _______ _   _
                                                                
                                                                
  GITHUB : HTTPS://MURDOCKXD 
- AUTHOR : MURDOCK XYINCODE'''
+AUTHOR : BASARI  |   MURDOCK XYINCODE'''
 	oi = nel(tekz(ban,justify='center',style='bold'), style='cyan')
 	cetak(nel(oi, title='[bold cyan] • DEVELOVER INFORMATION • [/bold cyan]'))
 # VALIDASI TOKEN
@@ -342,7 +342,7 @@ def menu(my_name,my_id):
 	#cetak(nel('\tSelamat datang ngentod '))
 	print(f'└─  Your ID : {id}')
 	print(f'└─  Your IP : {ip}')
-	print(f'└─  Your STATUS : {h}PREMIUM{x}')
+	print(f'└─  Your STATUS : {h}UNTUK UMAT{x}')
 	print('')
 	print('└─  1. Crack Publik ')
 	print('└─  2. Hasil Crack  ')
@@ -1211,10 +1211,10 @@ def hamz_bot():
     menu()
 
 if __name__=='__main__':
-	try:os.mkdir('/sdcard/4MBF-DATA/CP')
+	try:os.mkdir('/sdcard/MURDOCK-DATA/CP')
 	except:pass
-	try:os.mkdir('/sdcard/4MBF-DATA/OK')
+	try:os.mkdir('/sdcard/MURDOCK-DATA/OK')
 	except:pass
-	try:os.mkdir('/sdcard/4MBF-DATA/DUMP')
+	try:os.mkdir('/sdcard/MURDOCK-DATA/DUMP')
 	except:pass
 	login()
